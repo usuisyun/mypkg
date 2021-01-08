@@ -1,4 +1,4 @@
-# mypkg
+# 
 This is a kadai2 repository
 # myled
 ロボットシステム学　課題2
