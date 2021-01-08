@@ -9,11 +9,15 @@ This is a kadai2 repository
 # ２．環境  
 Raspberry Pi4(ubuntu20.04 LTS)
 
-# ３．実装内容 
-
+# ３．実装内容   
+2倍になった数値を出力
 
 # ４．インストール・実行手順  
-`git clone https://github.com/usuisyun/myled.git`  　　　　
+`git clone https://github.com/usuisyun/myled.git`  
+'roscore'  
+'chmod +x twice.py'  
+'rosrun mypkg twice.py'  
+
 
 # ５．デモ動画
 https://youtu.be/Pso4gnbq0T8
