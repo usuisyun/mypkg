@@ -14,10 +14,10 @@ Raspberry Pi4(ubuntu20.04 LTS)
 
 # ４．インストール・実行手順  
 `git clone https://github.com/usuisyun/myled.git`  
-'roscore'  
-'chmod +x twice.py'  
-'rosrun mypkg twice.py'  
-
+`roscore`  
+`chmod +x twice.py`  
+`rosrun mypkg twice.py`  
+rostopic echo /twice
 
 # ５．デモ動画
 https://youtu.be/Pso4gnbq0T8
