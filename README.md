@@ -13,7 +13,8 @@ Raspberry Pi4(ubuntu20.04 LTS)
 2倍になった数値を出力
 
 # ４．インストール・実行手順  
-`git clone https://github.com/usuisyun/myled.git`  
+`cd ~/catkin_ws/src/mypkg`  
+`https://github.com/usuisyun/mypkg.git`  
 `roscore`  
 `chmod +x twice.py`  
 `rosrun mypkg twice.py`  
