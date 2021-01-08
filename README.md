@@ -17,10 +17,7 @@ Raspberry Pi4(ubuntu20.04 LTS)
 `roscore`  
 `chmod +x twice.py`  
 `rosrun mypkg twice.py`  
-rostopic echo /twice
+`rostopic echo /twice`
 
-# ５．デモ動画
-https://youtu.be/Pso4gnbq0T8
-
-# ６．ライセンス　　
+# ５．ライセンス　　
 GNU General Public License v3.0
