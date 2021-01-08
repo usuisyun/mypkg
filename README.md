@@ -23,4 +23,4 @@ Raspberry Pi4(ubuntu20.04 LTS)
 # ５．デモ動画  
 https://youtu.be/BO2HLr_BGvU  
 # ６．ライセンス　　
-GNU General Public License v3.0
+BSD 3-Clause "New" or "Revised" License
