@@ -1,6 +1,6 @@
 # 
 This is a kadai2 repository
-# myled
+# mypkg
 ロボットシステム学　課題2
 
 # １．概要  
@@ -17,7 +17,7 @@ Raspberry Pi4(ubuntu20.04 LTS)
 `roscore`  
 `chmod +x twice.py`  
 `rosrun mypkg twice.py`  
-`rostopic echo /twice`
+`rostopic echo /count_up`
 
 # ５．ライセンス　　
 GNU General Public License v3.0
