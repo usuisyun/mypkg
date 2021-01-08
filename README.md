@@ -15,6 +15,7 @@ Raspberry Pi4(ubuntu20.04 LTS)
 # ４．インストール・実行手順  
 1 `$ catkin_ws/src/mypkg`上に
 `git clone https://github.com/usuisyun/mypkg.git`を打つ  
+`cd ~/mypkg/scripts`  
 2 別のターミナルを開き`roscore`を打つ  
 3 `chmod +x count.py`  
 4 `rosrun mypkg count.py`  
