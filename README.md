@@ -15,11 +15,11 @@ Raspberry Pi4(ubuntu20.04 LTS)
 # ４．インストール・実行手順  
 1 `roscore`を打つ  
 2 新たにターミナルを開き`$ catkin_ws/src/mypkg`上に
-`git clone https://github.com/usuisyun/mypkg.git`を打つ  
-`cd ~/mypkg/scripts`    
-`chmod +x count.py`  
-`rosrun mypkg count.py`  
-5 もう一つ新たにターミナルを開き`rostopic echo /count_up`
+3 `git clone https://github.com/usuisyun/mypkg.git`を打つ  
+4 `cd ~/mypkg/scripts`    
+5 `chmod +x count.py`  
+6 `rosrun mypkg count.py`  
+7 もう一つ新たにターミナルを開き`rostopic echo /count_up`
 
 # ５．ライセンス　　
 GNU General Public License v3.0
