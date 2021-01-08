@@ -13,7 +13,7 @@ Raspberry Pi4(ubuntu20.04 LTS)
 0から1ずつ加算した数値を出力
 
 # ４．インストール・実行手順  
-1 `roscore`を打つ
+1 `roscore`を打つ  
 2 新たにターミナルを開き`$ catkin_ws/src/mypkg`上に
 `git clone https://github.com/usuisyun/mypkg.git`を打つ  
 `cd ~/mypkg/scripts`    
