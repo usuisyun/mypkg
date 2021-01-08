@@ -10,14 +10,14 @@ This is a kadai2 repository
 Raspberry Pi4(ubuntu20.04 LTS)
 
 # ３．実装内容   
-2倍になった数値を出力
+0から1ずつ加算した数値を出力
 
 # ４．インストール・実行手順  
-`cd ~/catkin_ws/src/mypkg`  
+`$ catkin_ws/src/mypkg`上に  
 `https://github.com/usuisyun/mypkg.git`  
 `roscore`  
-`chmod +x twice.py`  
-`rosrun mypkg twice.py`  
+`chmod +x count.py`  
+`rosrun mypkg count.py`  
 `rostopic echo /count_up`
 
 # ５．ライセンス　　
