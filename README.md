@@ -13,8 +13,8 @@ Raspberry Pi4(ubuntu20.04 LTS)
 0から1ずつ加算した数値を出力
 
 # ４．インストール・実行手順  
-`$ catkin_ws/src/mypkg`上に  
-`https://github.com/usuisyun/mypkg.git`  
+`$ catkin_ws/src/mypkg`上に
+`git clone https://github.com/usuisyun/mypkg.git`  
 `roscore`  
 `chmod +x count.py`  
 `rosrun mypkg count.py`  
