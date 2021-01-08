@@ -20,6 +20,7 @@ Raspberry Pi4(ubuntu20.04 LTS)
 5 `chmod +x count.py`  
 6 `rosrun mypkg count.py`  
 7 もう一つ新たにターミナルを開き`rostopic echo /count_up`
+# ５．デモ動画  
 
-# ５．ライセンス　　
+# ６．ライセンス　　
 GNU General Public License v3.0
